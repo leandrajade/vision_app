@@ -1,5 +1,5 @@
 
-# vision_app
+# Vision App
 Vision app is both a marketplace and a portfolio for showcase for photographers
 
 # README
