@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-# README
 
+# vision_app
+Vision app is both a marketplace and a portfolio for showcase for photographers
+
+# README
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -23,8 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# vision_app
-
-Vision app is both a marketplace and a portfolio for showcase for photographers
->>>>>>> 0fb3d2b7b961d74c784f929145445678b0ad3c7d
